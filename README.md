@@ -30,7 +30,4 @@ A Ruby implementation of the HashMap data structure.
   6. #clear - removes all entries in the hash map.
   7. #keys - returns an array containing all the keys inside the hash map.
   8. #values - returns an array containing all the values.
-  9. #entries - returns an array that contains each key, value pair. 
-
-## Usage without Installation on your local machine
-Run the game on [Replit](https://replit.com/@1jakov1horvat/hash-map)
+  9. #entries - returns an array that contains each key, value pair.
